@@ -1,17 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title></title>
-	<style type="text/css">
-		.zagolovok {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-	</style>
-</head>
 <body>
 	<div class="zagolovok">
 		<h2>FANIK BOT</h2>
