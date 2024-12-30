@@ -1,7 +1,7 @@
 import telebot
 import random
 
-TOKEN = '7635241640:AAHodi2PDqvQV_fVMRsJ--yH6dkOGRfWZ-s'
+TOKEN = 'Telegram_bot_token'
 bot = telebot.TeleBot(TOKEN)
 
 # Список случайных фраз
